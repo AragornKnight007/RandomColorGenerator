@@ -36,8 +36,8 @@ No specific prerequisites are required to run this project.
 
 ```
 
-# Contributing
+## Contributing
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are welcome!
 
-License
+## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
